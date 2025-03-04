@@ -8,6 +8,7 @@ Started programming by learning **C/C++** in college. I used to make windows app
 My own project: <a href="https://oxhop.ltd"  target="_blank">OxHop</a>
 
 My last works:
+* <a href="https://landshare.io" target="_blank">Landshare</a> (2025)
 * <a href="https://moontube.io" target="_blank">Moontube</a> (2024 - 2025)
 * <a href="https://landx.fi" target="_blank">LandX Finance</a> (2023 - 2024)
 * <a href="https://x.com/obesefans" target="_blank">ObeseFans</a> (2023)
