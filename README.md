@@ -1,14 +1,13 @@
-Software Developer
+Senior Software Engineer
 ---------------------
 
 Started programming by learning **C/C++** in college. I used to make windows application including peer-to-peer game myself. I've got enough basic knowledges in Algorithms and Database structure. When I'm 16 yo, I'm interested in web development while participating in network related lectures. I've studied **HTML**, **CSS** and **PHP** to build a simple website hosting by **Xampp**. It was successful and became famous at school. I've built a management system for ice skating company using **CodeIgniter** and **MySQL** after graduation. I kept growing my skills by studying from **Javascript** to **Python**. Meanwhile, I mastered several frameworks including **React**, **Angular**, **Vue**, **Django**, and **Laravel**. Since 2021, I collected blockchain technologies and work on building web3 projects including **Smart Contract**, **DApp** and **Telegram bot**. In 2023, I noticed **AI/ML** technologies are becoming trending and started diving into these fields.
 
-🤝  I'm open to collaborating on worldwide remote teams. Feel free to contact **@oxhopltd** on Telegram.
+🤝  I'm open to collaborating on worldwide remote teams.
 
 My own project: <a href="https://oxhop.ltd"  target="_blank">OxHop</a>
 
 My last works:
-* <a href="https://landshare.io" target="_blank">Landshare</a> (2025)
 * <a href="https://moontube.io" target="_blank">Moontube</a> (2024 - 2025)
 * <a href="https://landx.fi" target="_blank">LandX Finance</a> (2023 - 2024)
 * <a href="https://x.com/obesefans" target="_blank">ObeseFans</a> (2023)
